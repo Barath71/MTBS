@@ -22,9 +22,6 @@ An online platform for browsing movies, selecting showtimes, and booking tickets
 - Integrated MySQL for storing user data, movie listings, booking details, and schedule management
 - Focused on usability, maintainability, and clear code structure
 
-## 📷 Screenshots
-
-> _Include images or GIFs here of the homepage, movie list, and booking confirmation screen if available._
 
 ## ⚙️ Setup Instructions
 
